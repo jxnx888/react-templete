@@ -1,0 +1,17 @@
+.layout {
+  .header {
+    height: .5rem !important;
+    color: #fff;
+    text-align: center;
+  }
+
+  .content {
+    height: calc(100vh - 1rem)
+  }
+
+  .footer {
+    height: .5rem !important;
+    background: #000 !important;
+    color: #fff;
+  }
+}

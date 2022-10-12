@@ -1,0 +1,6 @@
+$devUrlImg: 'https://cdn.lcieducation.com/';
+$proUrlImg: 'https://preprodcdn.lcieducation.com/';
+$urlImg: $proUrlImg;
+:export {
+  urlImg: $urlImg
+}

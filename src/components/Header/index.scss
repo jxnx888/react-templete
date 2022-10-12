@@ -1,0 +1,11 @@
+@import "../../assets/styles/variables.module";
+
+.s_line{
+  margin: 0 .1rem;
+}
+.lang_option{
+  cursor: pointer;
+  &.active_lang{
+    font-weight: bold;
+  }
+}
